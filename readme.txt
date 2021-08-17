@@ -5,3 +5,4 @@ Git is free software distributed under the GPL.
 
 a new project 101 begins.
 project begins.
+new functions are followings...
